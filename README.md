@@ -1,3 +1,2 @@
 # hello-world
-My first repository
-My daughter eats peanut butter at least once per day, and that's how I know she has my genes.
+My daughter eats peanut butter *at least* once per day... so the red hair is just a fluke; she's definitely mine.
